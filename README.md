@@ -3,7 +3,7 @@
 
 In this Tableau case study, I will investigate a dataset from an example telecom company called Databel and analyze their churn rates. My objective is not only to determine the churn rate but also to understand why customers are churning. I aim to gain valuable insights that can help Databel to make informed decisions about improving customer retention strategies and reducing churn. Ultimately, the goal is to help Databel improve customer satisfaction, increase loyalty, and drive long-term growth.
 
-_**Tableau Dashboard**_ - https://public.tableau.com/shared/GXG7Z2BPT?:display_count=n&:origin=viz_share_link
+
 
 ### 1 -Creating Calculated Fields
 
