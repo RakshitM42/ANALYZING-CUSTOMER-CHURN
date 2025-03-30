@@ -47,7 +47,7 @@ Then the calculated field is formated into 'Percentage of Total' for churn rate.
 ## 1.6 Churn Reasons
 Analyzing 'Churn Reasons' across 'No. of customers' as a Percentage of Total. 
 
-**Churn reasons - https://public.tableau.com/views/ChurnReasons_16811025661850/ChurnReasons?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+** Churn reasons - https://public.tableau.com/views/ChurnReasons_16811025661850/ChurnReasons?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## 1.7 Churn categories
 Analyzing churners by 'churn rate' across 'churn categories'
@@ -61,8 +61,6 @@ Analyzing 'churn reasons', 'churn rate', 'churned customers' with 'No. of custom
 
 **Churned Region** - https://public.tableau.com/views/ChurnedRegion/ChurnedRegion?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-
-### _**Tableau Dashboard**_ - https://public.tableau.com/shared/GXG7Z2BPT?:display_count=n&:origin=viz_share_link
 
 ## 2 - Key highlights of Data visualization
 
